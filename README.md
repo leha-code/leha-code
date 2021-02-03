@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-# Hey!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MCPI zero and MineTerm
 - 🌱 I’m currently learning to use openshottt
@@ -15,4 +12,4 @@ False
 - 📫 How to reach me: pezleha@gmail.com
 - 😄 Pronouns: It, He, The Computer, The CREEPER
 - ⚡ Fun fact: Sonic was originally Mr.NeedleMouse
--->
+
