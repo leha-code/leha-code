@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leha-code&layout=compact" alt="remyk888" /></p>
 
 
 - 🔭 I’m currently working on MCPI zero and MineTerm
